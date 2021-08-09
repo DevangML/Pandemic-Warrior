@@ -4,7 +4,7 @@ This is the repository for Pandemic Warrior software
 # Modules
 1.	Best Practices to prevent COVID-19:
 
-&emsp;&emsp;In this module we have explained the best practices that are necessary to prevent COVID-19 infection.
+&emsp;&emsp;<pre>In this module we have explained the best practices that are necessary to prevent COVID-19 infection.</pre>
 
 2.	COVID-19 Mutation’s information:
 
@@ -24,7 +24,7 @@ This is the repository for Pandemic Warrior software
 
 6.	Hospital Management System:
 
-&emsp;&emsp;This module will enable user to manage hospital data using a GUI based database with functions like modifying record and various ways of accessing the database.
+&emsp;&emsp;<pre>This module will enable user to manage hospital data using a GUI based database with functions like modifying record and various ways of accessing the database.</pre>
 
 7.	Vaccine’s information:
 
