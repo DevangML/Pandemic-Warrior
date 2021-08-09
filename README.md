@@ -52,7 +52,7 @@ This is the repository for Pandemic Warrior software
     <pre>In this module we have listed all the steps taken during treatment of a COVID-19 patient.</pre>
 
 # Libraries (modules) Used
-
+<pre>
 01. PyQt5
 02. sys
 03. BeautifulSoup
@@ -66,3 +66,4 @@ This is the repository for Pandemic Warrior software
 11. time
 12. sqlite3
 13. re
+</pre>
