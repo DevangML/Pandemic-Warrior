@@ -72,7 +72,8 @@ This is the repository for Pandemic Warrior software
 
 To use the software, there are two methods:
     <pre>1. Directly using executable:
-        Open the Pandemic Warrior Folder and run main.exe file. (This method works only in windows based PC).<br>
+        Open the Pandemic Warrior Folder and run main.exe file. (This method works only in windows based PC).<br></br>
+    </pre>
     <pre>2. Using python file:
         I. Open Final Folder and then do shift-right click; then open command window here.
         II. Create virtual environment and then install all modules from requirements.txt.
