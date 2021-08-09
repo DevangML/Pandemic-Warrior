@@ -60,15 +60,15 @@ This is the repository for Pandemic Warrior software
 
 # Libraries (modules) Used
 
->1. PyQt5
->2. sys
->3. BeautifulSoup
->4. requests
->5. pycountry
->6. plotly
->7. pandas
->8. subprocess
->9. pygame
+>01. PyQt5
+>02. sys
+>03. BeautifulSoup
+>04. requests
+>05. pycountry
+>06. plotly
+>07. pandas
+>08. subprocess
+>09. pygame
 >10. datetime
 >11. time
 >12. sqlite3
