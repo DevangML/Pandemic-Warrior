@@ -2,9 +2,9 @@
 This is the repository for Pandemic Warrior software
 
 # Main Screen
-<p align="center">
+<pre>
 <img src="images/Output.jpg" width="350px" height="300px">
-</p>
+</pre>
 # Modules
 1.	Best Practices to prevent COVID-19:
     <pre>In this module we have explained the best practices that are necessary to prevent COVID-19 infection.</pre>
