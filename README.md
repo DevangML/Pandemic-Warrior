@@ -69,8 +69,7 @@ This is the repository for Pandemic Warrior software
 7. pandas
 8. subprocess
 9. pygame
-<br></br>
-&emsp;10. datetime
-&emsp;11. time
-&emsp;12. sqlite3
-&emsp;13. re
+10. datetime
+11. time
+12. sqlite3
+13. re
