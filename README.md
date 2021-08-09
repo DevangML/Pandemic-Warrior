@@ -77,6 +77,7 @@ To use the software, there are two methods:
         I. Open Final Folder and then do shift-right click; then open command window here.
         II. Create virtual environment and then install all modules from requirements.txt.
         III. Run main.py using this venv.
+    </pre>
         
 # Thank You
         
