@@ -1,6 +1,11 @@
 # Pandemic-Warrior
 This is the repository for Pandemic Warrior software
 
+# Main Screen
+
+![L1_Image1_CP-2](https://user-images.githubusercontent.com/80061026/128699127-59932e17-e474-4486-863e-643d0f061648.jpg)
+
+
 # Modules
 1.	Best Practices to prevent COVID-19:
     <pre>In this module we have explained the best practices that are necessary to prevent COVID-19 infection.</pre>
