@@ -3,7 +3,7 @@ This is the repository for Pandemic Warrior software
 
 # Main Screen
 <p align="center">
-<img src="images/Output.jpg" width="200px" height="200px">
+<img src="images/Output.jpg" width="350px" height="300px">
 </p>
 # Modules
 1.	Best Practices to prevent COVID-19:
