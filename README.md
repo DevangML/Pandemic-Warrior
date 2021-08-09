@@ -2,7 +2,7 @@
 This is the repository for Pandemic Warrior software
 
 # Main Screen
-<pre>
+<pre align="center">
 <img src="images/Output.jpg" width="350px" height="300px">
 </pre>
 # Modules
