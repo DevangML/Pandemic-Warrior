@@ -4,7 +4,7 @@ This is the repository for Pandemic Warrior software
 # Modules
 1.	Best Practices to prevent COVID-19:
 
-<br></br>In this module we have explained the best practices that are necessary to prevent COVID-19 infection.
+<p style="text-indent:1.2em">In this module we have explained the best practices that are necessary to prevent COVID-19 infection.</p>
 
 2.	COVID-19 Mutation’s information:
 
