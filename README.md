@@ -67,3 +67,16 @@ This is the repository for Pandemic Warrior software
 12. sqlite3
 13. re
 </pre>
+
+# Installation
+
+To use the software, there are two methods:
+    <pre>1. Directly using executable:
+        Open the Pandemic Warrior Folder and run main.exe file. (This method works only in windows based PC).<br>
+    <pre>2. Using python file:
+        I. Open Final Folder and then do shift-right click; then open command window here.
+        II. Create virtual environment and then install all modules from requirements.txt.
+        III. Run main.py using this venv.
+        
+# Thank You
+        
