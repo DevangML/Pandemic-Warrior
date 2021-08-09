@@ -2,7 +2,7 @@ import sys
 from PyQt5 import QtWidgets
 from PyQt5.QtCore import (Qt, QRectF)
 from PyQt5.QtGui import (QCursor, QPainterPath, QRegion)
-from Varun import Ui_Form
+from Related_Diseases_gui import Ui_Form
 
 
 class Form(QtWidgets.QWidget, Ui_Form):

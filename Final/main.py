@@ -1,7 +1,7 @@
 
 import sys
 from PyQt5.QtCore import (QRectF)
-from PyQt5.QtGui import ( QColor, QCursor, QPainterPath, QRegion)
+from PyQt5.QtGui import (QColor, QCursor, QPainterPath, QRegion)
 from PyQt5.QtWidgets import *
 from PyQt5 import QtWidgets, QtCore
 from PyQt5.QtCore import Qt, QSize

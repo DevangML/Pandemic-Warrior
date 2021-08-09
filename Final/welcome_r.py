@@ -1,6 +1,6 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-from PyQt5.QtWidgets import QMessageBox,QInputDialog,QLineEdit
+from PyQt5.QtWidgets import QMessageBox
 import re
 import table
 import sqlite3

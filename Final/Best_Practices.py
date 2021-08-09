@@ -2,7 +2,7 @@ import sys
 from PyQt5 import QtWidgets
 from PyQt5.QtCore import (Qt, QRectF)
 from PyQt5.QtGui import (QCursor, QPainterPath, QRegion)
-from Kuber_02 import Ui_Form
+from Best_Practices_gui import Ui_Form
 
 class Form(QtWidgets.QWidget, Ui_Form):
 

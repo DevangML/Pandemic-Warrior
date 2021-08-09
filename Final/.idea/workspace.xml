@@ -3,21 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="664f3c5a-078f-4ca1-a048-1e61e9b886c6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akshita.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akshita_02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Akshita_03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fact_Checker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fact_Checker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Health_Guidelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Health_Guidelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuber.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main_Body.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main_Body.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Treatment-info.py" beforeDir="false" afterPath="$PROJECT_DIR$/Treatment-info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vaccination_Centres.py" beforeDir="false" afterPath="$PROJECT_DIR$/Vaccination_Centres.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vaccines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Vaccines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Varun.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yash.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cowin.py" beforeDir="false" afterPath="$PROJECT_DIR$/cowin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.py" beforeDir="false" afterPath="$PROJECT_DIR$/cowin2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/welcome.py" beforeDir="false" afterPath="$PROJECT_DIR$/welcome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Best_Practices.py" beforeDir="false" afterPath="$PROJECT_DIR$/Best_Practices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Related_Diseases.py" beforeDir="false" afterPath="$PROJECT_DIR$/Related_Diseases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/covid_cases.py" beforeDir="false" afterPath="$PROJECT_DIR$/covid_cases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/username.py" beforeDir="false" afterPath="$PROJECT_DIR$/username.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/welcome_r.py" beforeDir="false" afterPath="$PROJECT_DIR$/welcome_r.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
